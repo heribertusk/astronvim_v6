@@ -23,5 +23,5 @@ return {
   -- { import = "astrocommunity.terminal-integration.vim-tmux-yank" }, -- Disabled: conflicts with OSC52
 
   -- AI Plugin (optional)
-  { import = "astrocommunity.ai.opencode-nvim" },
+  -- { import = "astrocommunity.ai.opencode-nvim" },
 }
